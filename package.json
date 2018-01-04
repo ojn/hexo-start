@@ -1,6 +1,6 @@
 {
-  "name": "hexo-start",
-  "version": "0.0.1",
+  "name": "start",
+  "version": "0.0.2",
   "description": "Hexo-Start boilerplate",
   "main": "index.js",
   "private": false,
@@ -8,7 +8,7 @@
     "version": "3.4.4"
   },
   "scripts": {
-    "postinstall": "hexo init ./",
+    "start": "hexo server -d",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
