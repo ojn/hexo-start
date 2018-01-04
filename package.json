@@ -1,6 +1,6 @@
 {
   "name": "hexostart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hexo-Start boilerplate",
   "main": "index.js",
   "private": false,
