@@ -1,1 +1,1 @@
-// start client-side javascript
+// client-side javascript
